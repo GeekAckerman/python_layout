@@ -10,3 +10,6 @@ docs/_build/
 .idea
 .DS_Store
 .vscode
+
+.idea/
+venv/
